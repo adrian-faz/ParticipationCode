@@ -9,6 +9,7 @@ Instalamos todas las librerías necesarias con el siguiente comando:
 * `pip install -r requirements.txt`
 
 Verificar que los archivos `yolov3.cfg` y `yolov3.weights` estén presentes en la carpeta.
+El archivo de `yolov3.weights` es muy pesado y no se encuentra en esta carpeta del Github. Se puede descargar y agregar al proyecto en la siguiente liga: https://drive.google.com/file/d/1SFaI16InW9pXyJxuT2Ad2fCyX9Mw0sTJ/view?usp=sharing
 
 Para correr el código de Registro de Participación, se debe escribir el siguiente comando:
 * `python participation.py` ó `python3 participation.py`
